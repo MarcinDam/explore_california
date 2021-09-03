@@ -1,6 +1,1 @@
-Pierwsza linijka wpisu - branch master.
-Modyfikuje plik humans.txt
-To jest moj szybki tekst.
-
-
-Dodaje po prostu jakiś tekst.
+Jakis tam tekst
