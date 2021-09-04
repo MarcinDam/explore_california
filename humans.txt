@@ -1,1 +1,6 @@
 Jakis tam tekst
+
+
+
+
+To jest zmiana z poziomu Ubuntu.
