@@ -1,3 +1,5 @@
 Jakis tam tekst
 
-eTu wpisz tekst !
+
+
+To jest zmiana z poziomu Ubuntu.
