@@ -1,0 +1,1 @@
+Adding new file fiel_2.txt from git bash POV
