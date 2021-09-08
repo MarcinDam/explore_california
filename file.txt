@@ -1,1 +1,2 @@
 To jest 1. zmiana pliku file.txt
+A tu nie ma 2. zmiany.
